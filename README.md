@@ -28,3 +28,8 @@ git reset 'commit hash' -  Visit to the particular commit and removes other comm
 git reset --hard 'commit hash' - Visit to the particular commit and removes every file and commits after this commit hash.
 
 git reset —hard - resets any changes in the tracking file  and pointing to the 
+
+
+
+fork
+pull request
