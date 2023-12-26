@@ -19,3 +19,10 @@ git checkout -b 'branchName'
 git branch - to display branch names that is checkout locally.
 git branch -d 'branch name' - to delete branches
 git merge 'branchName' - Before this command, be in the branch from which the incoming branch to be merged. Replace branchname with the name which you want to merge into this current branch.
+git merge --abort
+
+
+git reset "filename" - to unstage a staged file
+git reset HEAD~1  - To undo previous commit, and move the last commited files to unstaged changes.
+git reset 'commit hash' -  Visit to the particular commit and removes other commits after this commit hash, and moved all the commited files after this commit hash to staged.
+git reset --hard 'commit hash' - Visit to the particular commit and removes every file and commits after this commit hash.
