@@ -52,3 +52,5 @@ git reset —hard - resets any changes in the tracking file  and pointing to the
 
 fork
 pull request
+
+git commit - this command will open an editor, where we can add our message.
