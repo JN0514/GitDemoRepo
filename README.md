@@ -1,7 +1,6 @@
 # GitDemoRepo
 
 Repository contains the git commands and its explanation.
-Create NewLine Test-conflict Branch
 Basic Commands:
 
 git clone
