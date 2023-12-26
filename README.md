@@ -58,3 +58,4 @@ git commit - this command will open an editor, where we can add our message.
 dummy change one1
 dummy change two2
 dummy change three3
+dummy change four4
