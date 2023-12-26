@@ -26,3 +26,5 @@ git reset "filename" - to unstage a staged file
 git reset HEAD~1  - To undo previous commit, and move the last commited files to unstaged changes.
 git reset 'commit hash' -  Visit to the particular commit and removes other commits after this commit hash, and moved all the commited files after this commit hash to staged.
 git reset --hard 'commit hash' - Visit to the particular commit and removes every file and commits after this commit hash.
+
+git reset —hard - resets any changes in the tracking file  and pointing to the 
