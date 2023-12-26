@@ -54,3 +54,10 @@ fork
 pull request
 
 git commit - this command will open an editor, where we can add our message.
+
+
+git rebase -i HEAD~(tailNumber) - Interactive rebase, which allows us to perform operations and manipulations within commits and its histories.
+
+git rebase -abort
+
+git rebase --continue
