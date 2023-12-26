@@ -18,3 +18,4 @@ git checkout -b 'branchName'
 “git diff ‘branch name’” - shows difference of the branch from the current branch.
 git branch - to display branch names that is checkout locally.
 git branch -d 'branch name' - to delete branches
+git merge 'branchName' - Before this command, be in the branch from which the incoming branch to be merged. Replace branchname with the name which you want to merge into this current branch.
