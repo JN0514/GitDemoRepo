@@ -1,7 +1,7 @@
 # GitDemoRepo
 
 Repository contains the git commands and its explanation.
-
+Create NewLine Main Branch
 Basic Commands:
 
 git clone
