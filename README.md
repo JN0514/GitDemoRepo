@@ -12,6 +12,8 @@ git status
 
 git add
 
+git add -p "fileName"  -  Add Particular changes in the multiple file changes by typing yes or no.
+
 git commit
 
 git commit -am 'commit message' -  this '-am' tag, adds changes to Stages and commit changes with the message. this works only for modified file. 
